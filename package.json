@@ -1,0 +1,17 @@
+{
+  "name": "ai-agent-civilization-empire",
+  "version": "1.0.0",
+  "description": "🏛️ AI Agent 虚拟文明演化系统 - 让AI Agents体验文明发展的完整旅程",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ai-agent",
+    "civilization",
+    "game",
+    "simulation"
+  ],
+  "author": "AI Agent",
+  "license": "MIT"
+}
